@@ -1,4 +1,4 @@
-# Module 16:  Amazon VineAnalysis
+# Module 16:  Amazon Vine Analysis
 ## An Overview of Big Data 
 ---
 
