@@ -11,7 +11,9 @@ I chose to analyze the dataset provided for tools sold on Amazon.  After filteri
 - There were a total of 31,4542 reviews written by inviduals who did not recieve a free product from the Amazon Vine program and 285 reviews which were written by Amazon Vine participants
 - 14,603 of the 31,452 (**46%**) non-Vine reviews were 5-stars
 - 163 of the 285 (**57%**) Vine reviews were 5-stars
-![data table] (https://github.com/murphyk2021/Amazon_Vine_Analysis/blob/bdf98a65ea7860d853aaa0bc0d87ea1c54166a80/results_1.JPG)
+
+
+![data table](https://github.com/murphyk2021/Amazon_Vine_Analysis/blob/bdf98a65ea7860d853aaa0bc0d87ea1c54166a80/results_1.JPG)
 
 
 ### Summary: 
