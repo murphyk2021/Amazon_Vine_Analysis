@@ -3,7 +3,7 @@
 ---
 
 ### Overview
-This module introduced students to Amazon Web Services(AWS), Google Colaboratory, and PySpark for use in Big Data analysis. In this hypothetical scenario we are working with a major marketing company.  Our client, Sellby, wants to know if participating in the Amazon Vine program will boost their product review scores and is worth the cost of participating in the program.    
+This module introduced students to Amazon Web Services(AWS), Google Colaboratory, and PySpark for use in Big Data analysis. In this hypothetical scenario we are working with a major marketing company to help our client, Sellby, to determine if participating in the Amazon Vine program will boost their product review scores and generate an acceptable ROI.    
 
 ### Results: 
 I chose to analyze the dataset provided for tools sold on Amazon.  After filtering the dataset such that it only included products with more than 20 reviews and of those reviews, at least 50% needed to be labeled as "helpful" the following information was obtained:
